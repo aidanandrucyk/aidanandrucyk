@@ -1,7 +1,6 @@
 ### Hello World!
-📘 Data Science Fellow @ Bluebonnet Data
-
-📚 CS + Stats Sophmore @ Honors College of Rutgers University–New Brunswick
+<p>📘 Data Science Fellow @ Bluebonnet Data</p>
+<p>📚 CS + Stats Sophmore @ Honors College of Rutgers University–New Brunswick</p>
 
 🔍 Seeking interships in Software Engineering and anything data
 
